@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about cutting out the middle mad and streamlining processes to improve efficiency.
-
-I'm currently working on a website to optimize communication between clients and and a dance team.
-
+I'm passionate about cutting out the middle mad and streamlining processes to improve efficiency. 
 Computer science major at the University of Illinois with a concentration in software engineering
+
+###What I'm working on
+
+- website for a dance team to optimize communication with clients.
+
 
