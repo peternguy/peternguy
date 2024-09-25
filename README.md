@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 I'm passionate about cutting out the middle mad and streamlining processes to improve efficiency. 
-Computer science major at the University of Illinois with a concentration in software engineering
 
-###What I'm working on
+### What I'm working on
 
 - website for a dance team to optimize communication with clients.
 
+### Academic
+
+Computer science major at the University of Illinois with a concentration in software engineering
 
