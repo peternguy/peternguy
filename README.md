@@ -23,5 +23,5 @@ I'm passionate about cutting out the middle mad and streamlining processes to im
 
 ### Academic
 
-Computer science major at the University of Illinois with a concentration in software engineering
+- Computer science major at the University of Illinois with a concentration in software engineering
 
