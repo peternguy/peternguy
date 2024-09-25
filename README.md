@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Peter here 👋
 
 <!--
 **peternguy/peternguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm passionate about cutting out the middle mad and streamlining processes to improve efficiency.
+
+I'm currently working on a website to optimize communication between clients and and a dance team.
+
+Computer science major at the University of Illinois with a concentration in software engineering
+
