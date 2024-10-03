@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about cutting out the middle mad and streamlining processes to improve efficiency. 
+I'm passionate about cutting out the middle man and streamlining processes to improve efficiency. 
 
 ### What I'm working on
 
