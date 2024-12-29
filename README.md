@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about cutting out the middle man and streamlining processes to improve efficiency. 
+I like making stuff and putting it on the internet
 
 ### What I'm working on
 
 - website for a dance team to optimize communication with clients.
+- WebGL
 
 ### Academic
 
