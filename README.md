@@ -19,7 +19,7 @@ I like making stuff and putting it on the internet
 
 ### What I'm working on
 
-- website for a dance team to optimize communication with clients.
+- website for a dance team
 - WebGL
 
 ### Academic
