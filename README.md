@@ -20,7 +20,7 @@ I like making stuff and putting it on the internet
 ### What I'm working on
 
 - website for a dance team
-- WebGL
+  - nextjs, tailwind css, gsap, framer-motion, page/app router
 
 ### Academic
 
