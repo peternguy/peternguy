@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like making stuff and putting it on the internet
+I like making stuff
 
 ### What I'm working on
 
